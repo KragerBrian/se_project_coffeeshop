@@ -158,7 +158,5 @@
 }
 
 .recipes__background {
-  size: cover;
   background-repeat: no-repeat;
-  position: center;
 }
