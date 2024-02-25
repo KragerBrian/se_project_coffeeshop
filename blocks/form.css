@@ -6,9 +6,6 @@
   padding: 0;
   margin: 0;
   border: none;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .form__input {
@@ -26,7 +23,7 @@
   border: 1px solid #838383;
 }
 
-.form__imput::placeholder {
+.form__input::placeholder {
   color: #838383;
 }
 
@@ -35,6 +32,9 @@
   display: block;
   font-style: normal;
   font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .form__label_type_checkbox {
